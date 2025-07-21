@@ -11,7 +11,7 @@
 ## 1. Setup
 
 ```powershell
-cd privacy_score
+cd Privacy Risk Score Calculator 
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
