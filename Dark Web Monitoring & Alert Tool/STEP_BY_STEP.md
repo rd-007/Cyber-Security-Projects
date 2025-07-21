@@ -12,7 +12,7 @@
 ## 1. Setup
 
 ```powershell
-cd dark_monitor
+cd Dark Web Monitoring & Alert Tool
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
