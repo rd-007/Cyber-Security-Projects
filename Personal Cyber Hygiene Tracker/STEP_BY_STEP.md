@@ -13,7 +13,7 @@
 ## 1. Setup
 
 ```powershell
-cd hygiene_tracker
+cd Personal Cyber Hygiene Tracker
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
