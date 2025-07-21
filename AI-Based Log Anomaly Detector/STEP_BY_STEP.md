@@ -14,7 +14,7 @@ Follow these steps to train the model (if needed) and detect anomalies in any pl
 ## 1. Setup
 
 ```powershell
-cd log_anomaly
+cd Log Anomaly Detector
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
