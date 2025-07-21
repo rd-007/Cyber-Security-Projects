@@ -23,7 +23,7 @@ A curated collection of **six** end-to-end security tools – each fully offline
 
 ```powershell
 # Example for project 1 – repeat per folder
-cd phishing_detector
+cd Real-Time Phishing URL Detector
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
